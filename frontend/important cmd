@@ -1,0 +1,7 @@
+
+npm install @angular-cli@8.3.29
+npm install @angular-devkit/build-angular  
+npm install bootstrap --save
+npm install jquery --save
+npm install font-awesome
+ng serve -o --base-href /doctorslab/
